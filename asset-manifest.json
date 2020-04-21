@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axelerant-webpage-demo/static/css/main.c1050377.chunk.css",
+    "main.js": "/axelerant-webpage-demo/static/js/main.a6a62fab.chunk.js",
+    "main.js.map": "/axelerant-webpage-demo/static/js/main.a6a62fab.chunk.js.map",
+    "runtime-main.js": "/axelerant-webpage-demo/static/js/runtime-main.f10fbd4e.js",
+    "runtime-main.js.map": "/axelerant-webpage-demo/static/js/runtime-main.f10fbd4e.js.map",
+    "static/js/2.e4d69735.chunk.js": "/axelerant-webpage-demo/static/js/2.e4d69735.chunk.js",
+    "static/js/2.e4d69735.chunk.js.map": "/axelerant-webpage-demo/static/js/2.e4d69735.chunk.js.map",
+    "index.html": "/axelerant-webpage-demo/index.html",
+    "precache-manifest.d6824bd786d440cbe050f067ebcdee41.js": "/axelerant-webpage-demo/precache-manifest.d6824bd786d440cbe050f067ebcdee41.js",
+    "service-worker.js": "/axelerant-webpage-demo/service-worker.js",
+    "static/css/main.c1050377.chunk.css.map": "/axelerant-webpage-demo/static/css/main.c1050377.chunk.css.map",
+    "static/js/2.e4d69735.chunk.js.LICENSE.txt": "/axelerant-webpage-demo/static/js/2.e4d69735.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f10fbd4e.js",
+    "static/js/2.e4d69735.chunk.js",
+    "static/css/main.c1050377.chunk.css",
+    "static/js/main.a6a62fab.chunk.js"
+  ]
+}
